@@ -1,5 +1,5 @@
 ## Historical Video Project on Estonian History\
-History Rap Video Project on Estonia (58 seconds, 9:16 format)\
+History Rap Video Project on Estonia (58 seconds, 9:16 format) by @jim_nomad\
 \
 ## Tools used\
 - Midjourney v6.1: Historical scenes generation\
