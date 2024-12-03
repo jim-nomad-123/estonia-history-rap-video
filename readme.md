@@ -14,7 +14,7 @@ History Rap Video Project on Estonia (58 seconds, 9:16 format)\
 - \'audio/': Generated background track and rap song\
 \
 ## License\
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International https://creativecommons.org/licenses/by-sa/4.0/\
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) \
 \
 ## Prize Submission Checklist\
 - [x] 9:16 aspect ratio\
