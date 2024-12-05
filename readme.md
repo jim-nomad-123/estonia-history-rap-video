@@ -7,7 +7,7 @@ History Rap Video Project on Estonia (58 seconds, 9:16 format) by @jim_nomad
 - Capcut: Final video assembly and text overlay
 
 ## Files
-- 'estonia-history-main-video.mp4': Main video file (9:16, 59s)
+- 'estonia-history-main-video.mp4': Main video file (9:16, 58s)
 - 'prompts.rtf': File containing all AI prompts used
 - 'source_images/': Original AI-generated images and public domain images
 - 'audio/': Generated background track and rap song
