@@ -3,7 +3,6 @@ History Rap Video Project on Estonia (58 seconds, 9:16 format) by @jim_nomad
 
 ## Tools used\
 - Midjourney v6.1: Historical scenes generation
-- Runway Gen-2: Scene animations and transitions
 - Suno v3: Period-inspirated background music
 - Capcut: Final video assembly and text overlay
 
